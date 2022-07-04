@@ -6,7 +6,7 @@
 #    By: aabduvak <aabduvak@42istanbul.com.tr>      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/07/02 14:56:57 by aabduvak          #+#    #+#              #
-#    Updated: 2022/07/03 22:56:22 by aabduvak         ###   ########.fr        #
+#    Updated: 2022/07/05 00:38:43 by aabduvak         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -26,9 +26,10 @@ END				=	"\033[0;0m"
 SRCS			= $(wildcard *.cpp)
 OBJS			= $(SRCS:%.cpp=bin/%.o)
 BIN				= ./bin
+
 # Command and Flags
 
-NAME			= phonebook
+NAME			= accounts
 CC				= c++
 RM				= rm -rf
 CFLAGS			= -Wall -Wextra -Werror

@@ -1,8 +1,8 @@
 &#xa0;
 
-<h1 align="center"> 🧰 CPP01 </h1>
+<h1 align="center"> 🧰 CPP02 </h1>
 
-<h2 align="center">This repository contains the exercises of Module 01 from C++ modules.</h2>
+<h2 align="center">This repository contains the exercises of Module 02 from C++ modules.</h2>
 <br>
 
 <p align="center">

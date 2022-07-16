@@ -1,8 +1,8 @@
 &#xa0;
 
-<h1 align="center"> 🧰 CPP01 </h1>
+<h1 align="center"> 🧰 CPP03 </h1>
 
-<h2 align="center">This repository contains the exercises of Module 01 from C++ modules.</h2>
+<h2 align="center">This repository contains the exercises of Module 03 from C++ modules.</h2>
 <br>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## About ##
 
-This module is designed to help you understand the memory allocation, reference, pointers to members and the usage of the switch in CPP.
+This module is designed to help you understand Inheritance in CPP.
 
 #### Objectives
 - Unix logic

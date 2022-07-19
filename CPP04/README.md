@@ -1,8 +1,6 @@
-&#xa0;
+<h1 align="center"> 🧰 CPP04 </h1>
 
-<h1 align="center"> 🧰 CPP03 </h1>
-
-<h2 align="center">This repository contains the exercises of Module 03 from C++ modules.</h2>
+<h2 align="center">This repository contains the exercises of Module 04 from C++ modules.</h2>
 <br>
 
 <p align="center">
@@ -15,7 +13,7 @@
 
 ## About ##
 
-This module is designed to help you understand Inheritance in CPP.
+This module is designed to help you understand Subtype polymorphism, abstract classes and interfaces in CPP.
 
 #### Objectives
 - Unix logic
@@ -28,3 +26,4 @@ This module is designed to help you understand Inheritance in CPP.
 ## Links ##
 - [CPP Reference](https://en.cppreference.com/)
 - [CPP Tutorial](https://www.w3schools.com/cpp/default.asp)
+- [Related Article](https://catonmat.net/cpp-polymorphism#:~:text=Subtype%20Polymorphism%20(Runtime%20Polymorphism),base%20class%20pointers%20and%20references.)

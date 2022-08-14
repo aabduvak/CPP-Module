@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aabduvak <aabduvak@42istanbul.com.tr>      +#+  +:+       +#+        */
+/*   By: aabduvak <aabduvak@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/05 04:05:43 by aabduvak          #+#    #+#             */
-/*   Updated: 2022/07/05 08:48:17 by aabduvak         ###   ########.fr       */
+/*   Updated: 2022/08/09 20:18:13 by aabduvak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -30,7 +30,6 @@ int main(void)
     std::cout << "Value of variable: " << str << std::endl;
     std::cout << "Value pointed to by pointer: " << *stringPTR << std::endl;
     std::cout << "Value pointed to by reference: " << stringREF << std::endl;
-
     return (0);
 }
 
@@ -46,3 +45,4 @@ int main(void)
  * A reference must be initialized on declaration while it is not necessary in case of pointer.
  * 
  * A reference shares the same memory address with the original variable but also takes up some space on the stack whereas a pointer has its own memory address and size on the stack.
+**/

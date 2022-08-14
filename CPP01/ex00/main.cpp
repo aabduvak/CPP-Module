@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   main.cpp                                           :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: aabduvak <aabduvak@42istanbul.com.tr>      +#+  +:+       +#+        */
+/*   By: aabduvak <aabduvak@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/07/05 02:02:29 by aabduvak          #+#    #+#             */
-/*   Updated: 2022/07/05 03:40:58 by aabduvak         ###   ########.fr       */
+/*   Updated: 2022/08/09 20:14:02 by aabduvak         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -23,7 +23,8 @@ int main(void)
     
     z->announce();
     z1->announce();
-    z0.announce();
+    z0.announce();	
+	randomChump("Arbi");
 
     // Free all alocated objects
     delete z;

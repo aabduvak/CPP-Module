@@ -31,6 +31,7 @@ Fixed::Fixed(int number) : number(number << 8)
 }
 
 //Float Constructor
+// 000.10110 (0.6875) - 10110 (22)
 Fixed::Fixed(float number) : number(static_cast<int>(roundf(number * (1 << frac))))
 {
 	std::cout << "Float constructor called" << std::endl;

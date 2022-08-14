@@ -32,7 +32,7 @@ BIN				= ./bin
 NAME			= main
 CC				= c++
 RM				= rm -rf
-CFLAGS			= -Wall -Wextra -Werror
+CFLAGS			= -Wall -Wextra -Werror -std=c++98
 
 # Rules
 

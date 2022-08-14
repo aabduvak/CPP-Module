@@ -11,7 +11,6 @@
 /* ************************************************************************** */
 
 #include "Fixed.hpp"
-//clang++ main.cpp Fixed.cpp
 
 int main( void ) 
 {

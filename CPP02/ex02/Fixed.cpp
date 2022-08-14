@@ -14,10 +14,6 @@
 #include <cmath>
 #include <iostream>
 
-#include "Fixed.hpp"
-#include <cmath>
-#include <iostream>
-
 const int Fixed::frac = 8;
 
 //Empty Constructor
@@ -89,7 +85,6 @@ Fixed Fixed::operator--(int)
 {
 	Fixed p(this->toFloat());
 	this->setRawBits(this->getRawBits() - 1);
-	//std::cout<<std::endl<< "Dolor "<< p<< std::endl;
 	return (*this);
 }
 
